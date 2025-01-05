@@ -1,32 +1,25 @@
-# 👋 Hi there, I'm Muhammad Hamza Khan
+### Hello there 👋, I am Hamza Khan
 
+You are my ![Visitor Count](https://profile-counter.glitch.me/hamzaceme/count.svg) visitor!
 
-| My ![Visitor Count](https://profile-counter.glitch.me/hamzaceme/count.svg) visitor! | <a href="https://mapmyvisitors.com/web/1bxbk"  title="Visit tracker"><img src="./README/map-1736061949175-11.png" /></a> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzaceme&show_icons=true&theme=buefy)
+
+## 📫 Contact information:
+Please feel free to reaching out to me over Email or LinkedIn
+- Email: mhamzakhan96@outlook.com
+- Linkedin: https://www.linkedin.com/in/hamzaceme/
+
 
 ## 🎓 Education
 
-- **Master's Candidate**, National University of Sciences and Technology (NUST) (*Sept. 2024 – *)
-  
-	
-- **Bachelor's Degree in Mechanical Engineering** at University of Engineering & Technology  (*Sept. 2016 – Dec. 2020*)
+- 🏫 Currently: Master student at the Department of Mechatronics Engineering, National University of Sciences & Technology.
+- 🏫 Bachelor's in Engineering (conc. Mechanical Engineering) from the University of Engineering & Technology. Degree awarded in December 2020.
 
-
-## 🚀 Research Interests
-
+## 🎯 Research Interests
 - Robotics
 - Autonomous Vehicles
-- Navigation
+- Embedded Systems
 - Control Systems
 
-## 📊 GitHub Stats
-
-| ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzaceme&show_icons=true&theme=buefy) | ![Hamza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hamzaceme&theme=react) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-
-
-
-
-## 📫 How to reach me
-
-<span style="color:red">**Please feel free to send me an email (mhamzakhan96@outlook.com). Thank you!**</span>
+## Acknowledgements
+- This template was desgined based on [JokerJohn's portfolio](https://github.com/JokerJohn/JokerJohn/blob/main/README.md?plain=1) README.md file
