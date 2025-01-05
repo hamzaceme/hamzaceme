@@ -1,12 +1,32 @@
-- 👋 Hi, I’m Hamza
-- 👀 I’m interested in mechanical engineeringand specifically control systems, embedded systems and robotics side of mechanical engineering...
-- 🌱 I’m currently doing my master degree in mechatronics engineering ...
-- 💞️ I’m looking to collaborate on topics mentioned above...
-- 📫 How to reach me ... mhamzakhan96@outlook.com
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I hat. people who make trash or who are unclean sorry but this is my habbit...
+# 👋 Hi there, I'm Muhammad Hamza Khan
 
-<!---
-hamzaceme/hamzaceme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+| My ![Visitor Count](https://profile-counter.glitch.me/hamzaceme/count.svg) visitor! | <a href="https://mapmyvisitors.com/web/1bxbk"  title="Visit tracker"><img src="./README/map-1736061949175-11.png" /></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+## 🎓 Education
+
+- **Master's Candidate**, National University of Sciences and Technology (NUST) (*Sept. 2024 – *)
+  
+	
+- **Bachelor's Degree in Mechanical Engineering** at University of Engineering & Technology  (*Sept. 2016 – Dec. 2020*)
+
+
+## 🚀 Research Interests
+
+- Robotics
+- Autonomous Vehicles
+- Navigation
+- Control Systems
+
+## 📊 GitHub Stats
+
+| ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzaceme&show_icons=true&theme=buefy) | ![Hamza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hamzaceme&theme=react) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+
+
+
+## 📫 How to reach me
+
+<span style="color:red">**Please feel free to send me an email (mhamzakhan96@outlook.com). Thank you!**</span>
