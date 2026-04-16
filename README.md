@@ -1,5 +1,9 @@
 ## Hi there 👋
-I am 
+My name is Muhammad Hamza Khan and I am from Pakistan.
+
+*   🎓 **Bachelor of Science in Mechanical Engineering** - University of Engineering & Technology Peshawar
+*   🎓 **Master of Science in Mechatronics Engineering** - National University of Sciences & Technology, Islamabad
+
 - 🔭 I’m currently working on SLAM...
 - 🌱 I’m currently learning Python, GitHub...
 - 👯 I’m looking to collaborate on robotics...
