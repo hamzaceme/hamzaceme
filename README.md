@@ -7,4 +7,4 @@
 - 🤔 I’m looking for help with sensor fusion based SLAM...
 - 📫 How to reach me:
   
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,autocad,solidworks)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,autocad,visualstudio)](https://skillicons.dev)
