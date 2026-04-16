@@ -1,6 +1,8 @@
 ## Hi there 👋
 My name is Muhammad Hamza Khan and I am from Pakistan.
 
+### Education
+
 *   🎓 **Bachelor of Science in Mechanical Engineering** - University of Engineering & Technology Peshawar
 *   🎓 **Master of Science in Mechatronics Engineering** - National University of Sciences & Technology, Islamabad
 
