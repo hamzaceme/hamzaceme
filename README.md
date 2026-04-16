@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Muhammad Hamza Khan and I am from Pakistan.
+My name is Muhammad Hamza Khan and I am from Pakistan. This page is still under construction!
 
 ### Education
 
