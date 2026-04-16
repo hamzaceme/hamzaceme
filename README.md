@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-**hamzaceme/hamzaceme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - I am 
 - 🔭 I’m currently working on SLAM...
 - 🌱 I’m currently learning Python, GitHub...
