@@ -13,7 +13,7 @@ My name is Muhammad Hamza Khan and I am from Pakistan.
 - 📫 How to reach me:
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzaceme)
 
   
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,autocad,visualstudio)](https://skillicons.dev)
