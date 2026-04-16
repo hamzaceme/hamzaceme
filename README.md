@@ -12,8 +12,8 @@ My name is Muhammad Hamza Khan and I am from Pakistan.
 - 🤔 I’m looking for help with sensor fusion based SLAM...
 - 📫 How to reach me:
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzaceme)
+## Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzaceme) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/realmhk96)
 
   
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,autocad,visualstudio)](https://skillicons.dev)
