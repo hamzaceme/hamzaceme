@@ -11,7 +11,7 @@ My name is Muhammad Hamza Khan and I am from Pakistan.
 - 👯 I’m looking to collaborate on robotics...
 - 🤔 I’m looking for help with sensor fusion based SLAM...
 - 📫 How to reach me:
-  [![LinkedIn](https://shields.io)](https://linkedin.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
 
   
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,autocad,visualstudio)](https://skillicons.dev)
