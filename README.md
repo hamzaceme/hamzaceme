@@ -1,13 +1,9 @@
 ## Hi there 👋
 
-<!--
 **hamzaceme/hamzaceme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+- I am 
 - 🔭 I’m currently working on SLAM...
 - 🌱 I’m currently learning Python, GitHub...
 - 👯 I’m looking to collaborate on robotics...
 - 🤔 I’m looking for help with sensor fusion based SLAM...
 - 📫 How to reach me: 
--->
